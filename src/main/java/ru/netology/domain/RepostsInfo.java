@@ -2,6 +2,6 @@ package ru.netology.domain;
 
 public class RepostsInfo {
     private int count;
-    private boolean canPost;
+    private int userReposted;
     // + get/set на все поля
 }
